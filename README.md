@@ -1,56 +1,52 @@
-# DigiCare - Health Tracker (University Academic Project)
+# DigiCare - Health Tracker
 
-<img width="893" height="505" alt="image" src="https://github.com/user-attachments/assets/8ba72df2-7f0e-49ca-bd82-fb80ab07e6bb" />
+<img width="893" height="505" alt="DigiCare Dashboard Screenshot" src="https://github.com/user-attachments/assets/8ba72df2-7f0e-49ca-bd82-fb80ab07e6bb" />
 
-DigiCare is a **Flask-based full-stack health tracking system** developed as part of a university project. It includes features such as user health data logging, medication tracking, goal setting, blood donation requests, progress comparisons, and more.
+**DigiCare** is a full-stack health tracking system built with **Flask** as part of a university academic project. It includes features such as:
 
-> ⚠️ **Note**: This repository is an archive of our original academic submission. The project is **not runnable in its current state** due to missing or outdated paths, and potential missing files like the MySQL database. This version is shared to demonstrate our development effort and collaboration.
+- Health data logging
+- Medication tracking
+- Goal setting
+- Blood donation request system
+- User progress comparison
+- Admin panel and more
 
----
-
-## 📖 Project Overview
-
-DigiCare was created by a team of four students. The initial idea for the system and most of its early design decisions were contributed by me. Each team member contributed basic functional modules, and the final integration — including frontend layout (HTML/CSS/Bootstrap) and UI enhancements — was completed by one team member based on everyone's individual components.
-
-### 🔧 Tech Stack:
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: Python (Flask), SQLAlchemy
-- **Database**: MySQL (schema created manually via SQL commands)
-
-> GitHub was not used during development. This submission has been uploaded retroactively for portfolio/archive purposes.
+> ⚠️ **Note:** This repository is archived for academic and portfolio purposes. The project is **not runnable in its current state** due to missing paths, unused or duplicated assets, and absence of the MySQL database file.
 
 ---
 
-## 📂 What’s Included
+## 📌 Project Summary
 
-- `templates/` — All Flask Jinja2 HTML template files
-- `static/` — Static assets (CSS, JS, images); some duplicate or unnecessary files may remain
-- `digicare.py` — Main Flask application entry point
-- `migrations/` — Flask-Migrate folder (if found)
-- `README.md` — You are here
-- `Report.pdf` — (Uploaded separately) contains:
-  - Full system explanation
-  - Screenshots of all pages
-  - Code snippets
-  - User flow and UI breakdown
+This was a collaborative project developed by a team of four members. The original idea and most of the early functional planning were contributed by me. Each member built separate core modules, and one teammate later integrated all logic and completed the frontend using CSS and Bootstrap.
+
+> ❌ GitHub was not used during the development phase. Collaboration was done via Discord, Google Meet, in-person lab work, and social media.
 
 ---
 
-## 📝 Collaboration & Credit
+## ⚙️ Tech Stack
 
-This was a **team project with 4 members**. The collaboration was done entirely through:
-- Discord
-- Google Meet
-- In-person PC lab sessions
-- Social media communication
-
-> 🧠 I proposed the original idea for DigiCare and suggested most of the core features. All members implemented individual modules and then integrated them together in the final phase.
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Python (Flask), SQLAlchemy
+- **Database:** MySQL (schema manually created using SQL commands)
 
 ---
 
-## ⚠️ Important Notes
+## 🔍 Important Notes
 
 - This project is **not hosted live**.
-For complete details, **please refer to the full project report** included in the repository.
+- Some files may be incomplete or non-functional due to path issues and missing database files.
+- The main purpose of this repository is to **showcase academic work and teamwork**.
+
+---
+
+## 📘 Project Report
+
+For detailed information, including:
+- Page-by-page feature explanations
+- UI/UX screenshots
+- Code structure and functionality
+- Database schema overview
+
+👉 [Click here to view the full project report (PDF)](./Report%20of%20the%20project.pdf)
 
 ---
