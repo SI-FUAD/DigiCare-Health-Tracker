@@ -11,8 +11,6 @@
 - User progress comparison
 - Admin panel and more
 
-> ⚠️ **Note:** This repository is archived for academic and portfolio purposes. The project is **not runnable in its current state** due to missing paths, unused or duplicated assets, and absence of the MySQL database file.
-
 ---
 
 ## 📌 Project Summary
@@ -34,8 +32,8 @@ This was a collaborative project developed by a team of four members. The origin
 ## 🔍 Important Notes
 
 - This project is **not hosted live**.
-- Some files may be incomplete or non-functional due to path issues and missing database files.
 - The main purpose of this repository is to **showcase academic work and teamwork**.
+- The project is **not runnable in its current state** due to incorrect paths and missing of the MySQL database file.
 
 ---
 
