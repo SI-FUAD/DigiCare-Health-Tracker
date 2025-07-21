@@ -33,7 +33,7 @@ This was a collaborative project developed by a team of four members. The origin
 
 - This project is **not hosted live**.
 - The main purpose of this repository is to **showcase academic work and teamwork**.
-- The project is **not runnable in its current state** due to incorrect paths and missing of the MySQL database file.
+- The project is **not runnable in its current state** due to incorrect paths, missing of a few files and folders and missing of the MySQL database file.
 
 ---
 
